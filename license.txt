@@ -1,0 +1,4 @@
+License Terms
+===============
+This material is distributed under the conditions of the Creative Commons Attribution Share Alike 4.0 International.
+Check license conditions under [cc-by-sa-4.0] (https://creativecommons.org/licenses/by-sa/4.0/)

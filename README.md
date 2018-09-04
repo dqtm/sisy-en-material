@@ -13,5 +13,5 @@ The material is split into folders related to the type of activity:
 
 ## Observations
 + Code examples are found under the respective activity
-+ Check the calendar for plan of activity roll-out in this semester
++ Check the ORGANISATION/logfile.md for plan and activity roll-out during this semester
 

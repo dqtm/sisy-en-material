@@ -3,7 +3,7 @@ Logfile on activities of HS18 semester :
 
 | Sem.Week | Date   | Lecture              |  Lab     |  Homework          |
 | --------:|:------:|----------------------| ---------|--------------------|
-|    1     | 18.Sep | Chap 1 / pg 1-xx     | Lab 1A   |  List 1 / ex 1-z   | 
+|    1     | 18.Sep | Chap 1 / pg 1-6      | Lab 1A   |  Lab-1A on paper   | 
 |          |        |                      |          |                    |
 |    2     | 25.Sep | Chap 1 / pg xx-yy    | Lab 1B   |  List 1 / ex 1-z   | 
 |          |        |                      |          |                    |

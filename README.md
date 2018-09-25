@@ -1,4 +1,4 @@
-# sisy-en-material
+# SISY_ENGLISH_MATERIAL
 Material for course: Signals and Systems (English)
 
 

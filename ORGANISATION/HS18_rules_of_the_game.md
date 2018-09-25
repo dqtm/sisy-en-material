@@ -1,6 +1,6 @@
 Material:
 ================
-Under [sisy-en-material](https://github.com/dqtm/sisy-en-material)
+Under [SISY_ENGLISH_MATERIAL](https://github.engineering.zhaw.ch/dqtm/SISY_ENGLISH_MATERIAL)
 
 
 Bibliography:	

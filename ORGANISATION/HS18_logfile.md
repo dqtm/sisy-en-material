@@ -5,8 +5,8 @@ Logfile on activities of HS18 semester :
 | --------:|:------:|----------------------| ---------|--------------------|
 |    1     | 18.Sep | Chap 1 / pg 1-6      | Lab 1A   |  Lab-1A on paper   | 
 |          |        |                      |          |                    |
-|    2     | 25.Sep | Chap 1 / pg xx-yy    | Lab 1B   |  List 1 / ex 1-z   | 
-|          |        |                      |          |                    |
+|    2     | 25.Sep | Chap 1 / pg 7-11+13  | Lab 1B   |  List 1 (all)      | 
+|          |        |                      |          |  + setup Lab-1B    |
 |    3     | 02.Oct | Chap 2 /             | Lab 2A   |                    | 
 |          |        |                      |          |                    |
 |    4     | 09.Oct | Chap 2 /             | Lab 2B   |                    | 

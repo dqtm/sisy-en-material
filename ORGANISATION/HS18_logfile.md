@@ -3,13 +3,13 @@ Logfile on activities of HS18 semester :
 
 | Sem.Week | Date   | Lecture              |  Lab     |  Homework          |
 | --------:|:------:|----------------------| ---------|--------------------|
-|    1     | 18.Sep | Chap 1 / pg 1-xx     | Lab 1A   |  List 1 / ex 1-z   | 
+|    1     | 18.Sep | Chap 1 / pg 1-6      | Lab 1A   |  List 1 / ex 1-4   | 
+|          |        | + chap1*.mlx         |          |  +Lab-1A on paper  |
+|    2     | 25.Sep | Chap 1 / pg 7-13     | Lab 1B   |  List 1 / ex 5-8   | 
+|          |        |                      |          |  +setup Lab-1B     |
+|    3     | 02.Oct | Corr + Chap 2 intro  | Lab 2A   |                    | 
 |          |        |                      |          |                    |
-|    2     | 25.Sep | Chap 1 / pg xx-yy    | Lab 1B   |  List 1 / ex 1-z   | 
-|          |        |                      |          |                    |
-|    3     | 02.Oct | Chap 2 /             | Lab 2A   |                    | 
-|          |        |                      |          |                    |
-|    4     | 09.Oct | Chap 2 /             | Lab 2B   |                    | 
+|    4     | 09.Oct | Chap 2 / pg 1-9      | Lab 2B   | List 2 (all)       | 
 |          |        | **Submission Eval A**|          |                    |
 |          |        |                      |          |                    |
 |    5     | 16.Oct | Chap 2 /             | Lab 2B/1C|                    | 

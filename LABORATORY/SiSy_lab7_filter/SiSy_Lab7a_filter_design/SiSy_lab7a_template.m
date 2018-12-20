@@ -24,18 +24,18 @@ aux = ....;         % WORK HERE!!!
 Ts = 1/8 ;          % Sample Period for discrete vector
 tn = .... ;         % WORK HERE!!!      % Time vector with large (discrete steps)
 
-Fs = (1/(Ts*N));    % Frequency step
+fstep = (1/(Ts*N));    % Frequency step  = Fs/N = 1/(Ts*N)
 fn = .... ;         % WORK HERE!!!      % Matching Frequency vector for fft()
 
 
 % Calculate discrete impulse response
-gn_s = .....;       % WORK HERE!!!
+g_n = .....;       % WORK HERE!!!
 
 % Plot cont vs. discrete impulse responses
 figure(2)
-stem(tn,gn_s,'m')
+stem(tn,g_n,'m')
 axis([0 4 -1 1])
-legend('g(t)','1/Ts*gs[n]')
+legend('g(t)','g[n]')
 xlabel('time [s]')
 ylabel('Amplitude')
 title('Continuous and discrete impulse responses')

@@ -1,5 +1,5 @@
-Logfile on activities of HS18 semester :
-========================================
+Plan + Logfile HS19 activities :
+================================
 
 | Sem.Week | Date   | Lecture              |  Lab     |  Homework          |
 | --------:|:------:|----------------------| ---------|--------------------|

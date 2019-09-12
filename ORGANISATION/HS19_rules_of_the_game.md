@@ -37,6 +37,10 @@ Evaluation exercises (Testat)
 * graded with OK, KO or REDO + questions during lab. 
 
 
+Hints:
+================
+* Install a Git Client (e.g. TortoiseGit for Windows)
+* Clone or Download the contents to have course material locally
 
 
 Teacher:

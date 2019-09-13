@@ -9,16 +9,16 @@ Plan + Logfile HS19 activities :
 |          |        |                      |          |  +setup Lab-1B     |
 |    3     | 30.Sep | Chap 2               | Lab 2A   |                    |
 |          |        |                      |          |                    |
-|    4     | 07.Oct | Chap 2               | Lab 2B   |  List 2            |
-|          |        | **Submission Eval A**|          |                    |
+|    4     | 07.Oct | DFT-Example          | Eval-A   |  List 2            |
 |          |        |                      |          |                    |
 |    5     | 14.Oct | Chap 2 /             | Lab 2B   |                    |
+|          |        | **Submission Eval A**|          |                    |
 |          |        |                      |          |                    |
-|    6     | 21.Oct |  Chap 3 /            | Lab 2C   |                    |
+|    6     | 21.Oct |  Chap 2 & 3 /        | Lab 2C   |                    |
 |          |        |                      |          |                    |
-|    7     | 28.Oct | **Mid-Exam 1**       | Lab 3A   |                    |
+|    7     | 28.Oct |  Chap 3 /            | Lab 3A   |                    |
 |          |        |                      |          |                    |
-|    8     | 04.Nov | Chap 3 /             | Lab 3B   |                    |
+|    8     | 04.Nov | **Mid-Exam 1**       | Lab 3B   |                    |
 |          |        |                      |          |                    |
 |    9     | 11.Nov | Chap 3 /             | Lab 3C   |                    |
 |          |        |                      |          |                    |
@@ -29,7 +29,7 @@ Plan + Logfile HS19 activities :
 |          |        |                      |          |                    |
 |   12     | 02.Dec | Chap 5 & 6 /         | Lab 6A   |                    |
 |          |        |                      |          |                    |
-|   13     | 09.Dec | **Mid-Exam 2**       | Lab 6B   |                    |
+|   13     | 09.Dec | Chap 6               | Lab 6B   |                    |
 |          |        |                      |          |                    |
-|   14     | 16.Dec | Chap 6 /             | Lab 7    |                    |
+|   14     | 16.Dec | **Mid-Exam 2** /     | Lab 7    |                    |
 |          |        |                      |          |                    |

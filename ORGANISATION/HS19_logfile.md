@@ -1,12 +1,12 @@
 Plan + Logfile HS19 activities :
 ================================
 
-| Sem.Week | Date   | Lecture              |  Lab     |  Homework          |
-| --------:|:------:|----------------------| ---------|--------------------|
-|    1     | 16.Sep | Chap 1               | Lab 1A   |  List 0            |
-|          |        |                      |          |  Pre-SiSy Math     |
-|    2     | 23.Sep | Chap 1               | Lab 1B   |  List 1            |
-|          |        |                      |          |  +setup Lab-1B     |
+| Sem.Week | Date   | Lecture              |  Lab     |  Homework                                           |
+| --------:|:------:|----------------------| ---------|-----------------------------------------------------|
+|    1     | 16.Sep | Chap 1               | Lab 1A   |  List 0 : Pre-SiSy Math                             |
+|          |        |                      |          |  Script-1: till Question 1-5                        |
+|    2     | 23.Sep | Chap 1               | Lab 1B   |  List 1  +setup Lab-1B                              |
+|          |        |                      |          |  Script-1: till Question 1-15 check \*.MLX solution |
 |    3     | 30.Sep | Chap 2               | Lab 2A   |                    |
 |          |        |                      |          |                    |
 |    4     | 07.Oct | DFT-Example          | Eval-A   |  List 2            |

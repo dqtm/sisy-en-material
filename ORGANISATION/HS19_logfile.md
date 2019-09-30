@@ -9,9 +9,9 @@ Plan + Logfile HS19 activities :
 |          |        |                      |          |  Script-1: till Question 1-15 check \*.MLX solution |
 |    3     | 30.Sep | Chap 2               | Lab 2A   |  List 2 up to 5(c)                                  |
 |          |        |                      |          |  Script-2 till page-6                               |
-|    4     | 07.Oct | Chap 2 + DFT-Example | Eval-A   |  List 2            |
+|    4     | 07.Oct | Chap 2               | Eval-A   |  List 2            |
 |          |        |                      |          |  TEST-1            |
-|    5     | 14.Oct | Chap 2               | Lab 2B   |                    |
+|    5     | 14.Oct | DFT-Example          | Lab 2B   |                    |
 |          |        | **Submission TEST-1**|          |                    |
 |          |        |                      |          |                    |
 |    6     | 21.Oct |  Chap 2 & 3 /        | Lab 2C   |                    |

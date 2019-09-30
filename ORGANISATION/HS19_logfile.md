@@ -10,10 +10,10 @@ Plan + Logfile HS19 activities :
 |    3     | 30.Sep | Chap 2               | Lab 2A   |  List 2 up to 5(c)                                  |
 |          |        |                      |          |  Script-2 till page-6                               |
 |    4     | 07.Oct | Chap 2               | Eval-A   |  List 2            |
-|          |        |                      |          |  TEST-1            |
+|          |        |                      |          |  TEST-1 (except 2(e) & 4 )  |
 |    5     | 14.Oct | DFT-Example          | Lab 2B   |                    |
 |          |        | **Submission TEST-1**|          |                    |
-|          |        |                      |          |                    |
+|          |        |   (till 18.Okt)      |          |                    |
 |    6     | 21.Oct |  Chap 2 & 3 /        | Lab 2C   |                    |
 |          |        |                      |          |                    |
 |    7     | 28.Oct |  Chap 3 /            | Lab 3A   |                    |

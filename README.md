@@ -9,6 +9,7 @@ The material is split into folders related to the type of activity:
 * SCRIPT
 * LABORATORY
 * EXERCISES
+* EXTRA
 
 
 ## Observations

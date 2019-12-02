@@ -14,18 +14,18 @@ Plan + Logfile HS19 activities :
 |    5     | 14.Oct | DFT-Example          | Lab 2B   |  DFT-Ex+Calc pages 3-end (incl.Matlab)              |
 |          |        | **Submission TEST-1**| (till 18.Okt)  |              |
 |          |        |                      |          |                    |
-|    6     | 21.Oct |  Chap 2 & 3 /        | Lab 2C   |                    |
+|    6     | 21.Oct |  Chap 2 & 3 /        | Lab 2C   |  List 3                  |
 |          |        |                      |          |                    |
-|    7     | 28.Oct |  Chap 3 /            | Lab 3A   |                    |
+|    7     | 28.Oct |  Chap 3 /            | Lab 3A   |  List 4                  |
 |          |        |                      |          |                    |
 |    8     | 04.Nov | **Mid-Exam 1**       | Lab 3B   |                    |
 |          |        |                      |          |                    |
-|    9     | 11.Nov | Chap 3 /             | Lab 3C   |                    |
+|    9     | 11.Nov | Chap 3 /             | Lab 3C   |  List 4                  |
 |          |        |                      |          |                    |
-|   10     | 18.Nov | Chap 4 /             | Lab 4    |                    |
+|   10     | 18.Nov | Chap 4 /             | Lab 4    |  List 5                  |
 |          |        |                      |          |                    |
 |   11     | 25.Nov | Chap 5 /             | Lab 5    |                    |
-|          |        | **Submission TEST-2**|          |                    |
+|          |        | **Submission TEST-2**|  (till 25.Nov)         |                    |
 |          |        |                      |          |                    |
 |   12     | 02.Dec | Chap 5 & 6 /         | Lab 6A   |                    |
 |          |        |                      |          |                    |

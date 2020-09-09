@@ -45,9 +45,9 @@ Evaluation exercises (Testat)
 
 Hints:
 ================
-* Install a Git Client (e.g. TortoiseGit for Windows)
-* Clone or Download repository to have course material locally
-* Use a branch or a local copy to add your own notes, since repository will have updates during semester
+* Install a Git Client (e.g. TortoiseGit for Windows). Optional, enables using git commands.
+* Clone or Download repository to have course material locally.
+* Use a branch or a local copy to add your own notes, since repository will have updates during semester.
 
 
 

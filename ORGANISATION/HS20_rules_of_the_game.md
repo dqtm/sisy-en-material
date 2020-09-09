@@ -1,8 +1,10 @@
 Material:
 ================
+Script / Lab-Description / Exercises
 Under [SISY_ENGLISH_MATERIAL](https://github.engineering.zhaw.ch/dqtm/SISY_ENGLISH_MATERIAL)
 
-Warm-Up Questions: https://bit.ly/2lL9F21
+Lecture-Notes / Lab-Workout / Homework-Questions
+Under  https://bit.ly/3ifvxea (notebook in zhaw-sharepoint)
 
 
 
@@ -34,7 +36,7 @@ The semester course grade is based on
 Open book exams, but without calculator. The exams also contains questions to the laboratory topics. 
 
 Laboratory
-* the presence in 12 out of the 14 laboratory classes is mandatory. 
+* the presence in 12 out of the 14 laboratory classes is mandatory (life or remote). 
 
 Evaluation exercises (Testat) 
 * to be done at home
@@ -44,7 +46,9 @@ Evaluation exercises (Testat)
 Hints:
 ================
 * Install a Git Client (e.g. TortoiseGit for Windows)
-* Clone or Download the contents to have course material locally
+* Clone or Download repository to have course material locally
+* Use a branch or a local copy to add your own notes, since repository will have updates during semester
+
 
 
 Teacher:

@@ -29,11 +29,11 @@ Bibliography:
 Evaluation:
 ================
 The semester course grade is based on
-* two intermediate exams   (weight 2x15%=30%)
-* two evaluation exercises (weight 2x5%=10%) 
-* final written exam       (weight 60%) 
+* one evaluation test    (weight 10%) 
+* one intermediate exam  (weight 20%)
+* final semester exam    (weight 70%) 
 
-Open book exams, but without calculator. The exams also contains questions to the laboratory topics. 
+Open book exams. The exams also contains questions to the laboratory topics. 
 
 Laboratory
 * the presence in 12 out of the 14 laboratory classes is mandatory (life or remote). 

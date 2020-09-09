@@ -1,10 +1,10 @@
 Material:
 ================
-Script / Lab-Description / Exercises
-Under [SISY_ENGLISH_MATERIAL](https://github.engineering.zhaw.ch/dqtm/SISY_ENGLISH_MATERIAL)
+Script / Lab-Description / Exercises <br>
+under [SISY_ENGLISH_MATERIAL](https://github.engineering.zhaw.ch/dqtm/SISY_ENGLISH_MATERIAL)
 
-Lecture-Notes / Lab-Workout / Homework-Questions
-Under  https://bit.ly/3ifvxea (notebook in zhaw-sharepoint)
+Lecture-Notes / Lab-Workout / Homework-Questions <br>
+under  https://bit.ly/3ifvxea (notebook in zhaw-sharepoint)
 
 
 

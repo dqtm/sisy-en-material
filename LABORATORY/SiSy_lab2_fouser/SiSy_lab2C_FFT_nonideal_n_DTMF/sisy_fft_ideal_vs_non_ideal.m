@@ -1,5 +1,5 @@
-% FFT Ideal versus Non-Ideal _ dqtm SiSy HS14
-% Examples to see where "noise" arises
+% FFT Ideal versus Non-Ideal _ dqtm SiSy HS20
+% Examples to see where "noise" arises in fft measurements
 % ===========================
 clear all, close all, clc
 
@@ -11,7 +11,7 @@ clear all, close all, clc
 % ===========================
 fsig = 1e3;
 duty = 50;     % duty cycle for periodic square
-M = 2^5;       % Number of sampling points per period of Fsig
+M = 2^4;       % Number of sampling points per period of Fsig
 P = 2;          % Length of observation window = 20*Period of input-signal
 
 Fsa = M*fsig;    % sampling frequency is a multiple of the input-signal freq
@@ -38,11 +38,10 @@ subplot(122),plot(fa,abs(Xa_f),'-bo'),grid on,hold on
 %%  Everything else: non-ideal situations!
 % (B) Fs is not a multiple of fsig: (Fs) /= (M*fsig)
 % (C) The observation window is not a multiple of Tsig: (N*Ts) /= (P*Tsig)
-% (D) Both (Fs) /= (M*fsig) and (N*Ts) /= (P*Tsig)
 
 
 %% (B) Fs is not a multiple of fsig: (Fs) /= (M*fsig)
-Fsb = M*1.148*fsig; % sampling frequency is NOT multiple of the input-signal freq
+Fsb = M*0.896*fsig; % sampling frequency is NOT multiple of the input-signal freq
 Tsb = 1/Fsb;
 
 Nb = round(Tw/Tsb);   % Calculate number of points in buffer for FFT-Analysis
@@ -65,7 +64,7 @@ subplot(122),plot(fb,abs(Xb_f),'-ro'),grid on,hold on
     
 %% (C) The observation window is not a multiple of Tsig: (N*Ts) /= (P*Tsig)    
 
-fsig_c = fsig*1.072;
+fsig_c = fsig*1.172;
 
 Fsc = Fsa;    % sampling frequency is a multiple of the input-signal freq
 Tsc = 1/Fsc;

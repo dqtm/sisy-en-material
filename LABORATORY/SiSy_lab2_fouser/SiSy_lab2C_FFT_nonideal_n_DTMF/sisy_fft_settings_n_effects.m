@@ -1,5 +1,5 @@
-% FFT Practical _ settings & effects _ dqtm SiSy HS14
-% What can you do: AA-filter, windowing, long-obs-interval, zero-padding
+% FFT Practical _ settings & effects _ dqtm SiSy HS20
+% What can you do: change N, change Fs, windowing, zero-padding
 % ===========================
 clear all, close all, clc
 
@@ -7,8 +7,8 @@ clear all, close all, clc
 % we can improve the spectrum measurement
 % ============================
 % (A) The basic situation: rectangle window
-% (B) Increasing window size
-% (C) Adding AAf
+% (B) Increasing window size 
+% (C) Increasing sampling frequency
 % (D) Adding Windowing (Hanning)
 % (E) Zero-Padding
 % ============================
@@ -54,19 +54,23 @@ subplot(121),plot(tb,xb_t,'-ro'),grid on,hold on
 subplot(122),plot(fb,abs(Xb_f),'-ro'),grid on,hold on
             xlabel('frequency (Hz) \rightarrow')
 
-%% (C) Adding AAf
+%% (C) Increasing sampling frequency
 % ============================
 
-[b,a] = butter(2,0.45);
-xc_t = filter(b,a,x_t);
+Fs_c = 50e3;  %30e3;
+% use same N as above (therefore same aux vector)
 
+tc = (1/Fs_c)*aux;
+fc = (Fs_c/N)*aux;
+
+xc_t = square(2*pi*fsig*tc,duty);
 Xc_f = (1/N)*fft(xc_t);
 
-figure('Name','(C) Adding AAF')
-subplot(121),plot(t,xc_t,'-go'),grid on,hold on
+figure('Name','(C) Increasing sampling frequency')
+subplot(121),plot(tc,xc_t,'-go'),grid on,hold on
             xlabel('time (s) \rightarrow')
             ylim([-2 2])
-subplot(122),plot(f,abs(Xc_f),'-go'),grid on,hold on
+subplot(122),plot(fc,abs(Xc_f),'-go'),grid on,hold on
             xlabel('frequency (Hz) \rightarrow')
 
 
@@ -116,15 +120,15 @@ figure('Name','Compare FFT Amplitude-Spectra in Linear scale')
     plot(f,abs(X_f),'-bo'),grid on,hold on
     % (B) Longer Obs-wdw
     plot(fb,abs(Xb_f),'-ro'),grid on,hold on
-    % (C) Adding AAF
-    plot(f,abs(Xc_f),'-go'),grid on,hold on
+    % (C) Increasing sampling frequency
+    plot(fc,abs(Xc_f),'-go'),grid on,hold on
     % (D) Windowing
     plot(f,abs(Xd_f),'-ko'),grid on,hold on
     % (E) Zero-Padding
     plot(fb,abs(Xe_f),'-mo'),grid on,hold on
     
     xlabel('frequency (Hz) \rightarrow')
-    legend({'(A)Basic','(B)Longer Tw','(C)Added AAF','(D) Han-Wdw','(E) Zero-Padding'})     
+    legend({'(A)Basic','(B)Longer Tw','(C)Larger Fs','(D) Han-Wdw','(E) Zero-Padding'})     
             
 % Compare Spectra in dB scale
 figure('Name','Compare FFT Amplitude-Spectra in dB scale')
@@ -132,12 +136,12 @@ figure('Name','Compare FFT Amplitude-Spectra in dB scale')
     plot(f,db(X_f),'-bo'),grid on,hold on
     % (B) Longer Obs-wdw
     plot(fb,db(Xb_f),'-ro'),grid on,hold on
-    % (C) Adding AAF
-    plot(f,db(Xc_f),'-go'),grid on,hold on
+    % (C) Increasing sampling frequency
+    plot(fc,db(Xc_f),'-go'),grid on,hold on
     % (D) Windowing
     plot(f,db(Xd_f),'-ko'),grid on,hold on
     % (E) Zero-Padding
     plot(fb,db(Xe_f),'-mo'),grid on,hold on
     
     xlabel('frequency (Hz) \rightarrow')
-    legend({'(A)Basic','(B)Longer Tw','(C)Added AAF','(D) Han-Wdw','(E) Zero-Padding'})     
+    legend({'(A)Basic','(B)Longer Tw','(C)Larger Fs','(D) Han-Wdw','(E) Zero-Padding'})     

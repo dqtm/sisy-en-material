@@ -1,4 +1,4 @@
-% SiSy1 Prak6 - Aufgabe-4 Klang Synthese
+% SiSy1 Prak3A - Exercise Sound Synthesis
 % =================================
 clear all, close all, clc;
 

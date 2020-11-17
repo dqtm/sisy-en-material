@@ -20,9 +20,9 @@ Plan + Logfile HS20 activities :
 |          |        |                      |                |             |                         |
 |    8     | 04.Nov |  Chap 3              | Lab 3B         |  Lab 3A     |                         |
 |          |        |                      |                |             |                         |
-|    9     | 11.Nov | Chap 3 & 4           | Lab 4          |  Lab 3C     |                         |
+|    9     | 11.Nov | Chap 3 & 4           | Lab 3C         |  Lab 3C     |                         |
 |          |        |                      |                |             |                         |
-|   10     | 18.Nov | Chap 4               | Lab 4          |  Lab 3C     |  List 5                 |
+|   10     | 18.Nov | Chap 4               | Lab 4          |  Lab 4      |  List 5                 |
 |          |        |                      |                |             |                         |
 |   11     | 25.Nov | Chap 5               | Lab 5          |  Lab 5      |  List 6                 |
 |          |        |                      |                |             |                         |

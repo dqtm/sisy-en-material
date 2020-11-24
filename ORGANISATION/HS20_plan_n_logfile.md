@@ -26,8 +26,8 @@ Plan + Logfile HS20 activities :
 |          |        |                      |                |             |                         |
 |   11     | 25.Nov | Chap 5               | Lab 5          |  Lab 5      |  List 6                 |
 |          |        |                      |                |             |                         |
-|   12     | 02.Dec | Chap 5 & 6           |**Short-Exam**  |**Short-Exam**|  List 7                |
-|          |        |                      |                |             |                         |
+|   12     | 02.Dec | **Short-Exam**       | List 7         | List 7      |  List 7                 |
+|          |        | + Chap 5             |                |             |                         |
 |   13     | 09.Dec | Chap 6               | Lab 6A         |   Lab 6B    |  List 8                 |
 |          |        |                      |                |             |                         |
 |   14     | 16.Dec | Chap 6               | Lab 6A         |   Lab 6B    |  List 9                 |
